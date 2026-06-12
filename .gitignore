@@ -1,0 +1,6 @@
+fastf1_cache_folder/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+.env
+venv/
